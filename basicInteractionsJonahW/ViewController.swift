@@ -23,7 +23,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func rightButton(_ sender: Any) {
-        tapRightLabel.text = "You tapped left"
+        tapRightLabel.text = "You tapped right"
     }
 }
 
